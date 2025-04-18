@@ -1,5 +1,8 @@
 # rust-cookbook
 
+[中文版](https://rustwiki.org/zh-CN/rust-cookbook/)
+[英文版](https://rust-lang-nursery.github.io/rust-cookbook/)
+
 ## Examples
 
 - [切片排序/自定义排序](src/bin/algorithms-sorting.rs)
